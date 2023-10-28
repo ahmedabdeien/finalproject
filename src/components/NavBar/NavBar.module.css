@@ -1,0 +1,22 @@
+.iconsSocialMedia{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px 1px;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all .3s;
+}
+.iconsSocialMedia:hover{
+    background-color: #0aad0a;
+    color: #ffffff;
+    border-radius: 50%;
+}
+.hoverOut{
+   color: red;
+}
+.hoverOut:hover{
+    text-decoration: underline;
+}
